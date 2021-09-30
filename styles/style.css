@@ -15,6 +15,11 @@ header {
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+ul {
+  padding: 0;
+  margin: 0;
+}
+
 /* header */
 
 .header {
@@ -128,6 +133,10 @@ header {
   font-weight: normal;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .paragraph__text-3 {
   line-height: 34px;
   font-size: 24px;
@@ -136,10 +145,6 @@ header {
 
 .two-columns__main-text {
   width: 175px;
-}
-
-.link__1 {
-  text-decoration: none;
 }
 
 /* digits */
@@ -250,7 +255,6 @@ header {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
-  right: 0em;
   margin-right: 48px;
 }
 
