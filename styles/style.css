@@ -34,6 +34,7 @@
   font-size: 102px;
   line-height: 96px;
   font-weight: bold;
+  z-index: 3;
 }
 
 .header__subtitle {
@@ -46,6 +47,7 @@
   font-size: 18px;
   line-height: 25px;
   font-weight: normal;
+  z-index: 3;
 }
 
 .link {
@@ -268,22 +270,24 @@
 /* footer */
 
 .footer {
-  padding-top: 60px;
-  padding-bottom: 40px;
+  display: flex;
+  justify-content: space-between;
   background-color: #1f1f1f;
   color: white;
-  min-width: 350px;
+  min-height: 350px;
 }
 
 .footer__columns {
   display: flex;
   justify-content: space-between;
+  padding-top: 60px;
+  padding-bottom: 40px;
   width: 90%;
   margin: 0 auto 0 auto;
 }
 
 .footer__column_content_copyright {
-  position: relative;
+  display: flex;
   flex-basis: 711px;
   flex-direction: column;
   justify-content: space-between;
@@ -310,8 +314,6 @@
 }
 
 .footer__author {
-  position: absolute;
-  bottom: 0;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
