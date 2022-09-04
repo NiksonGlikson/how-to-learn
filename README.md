@@ -1,5 +1,5 @@
-Научиться учиться.
-Страница о том, как правильнее и эффективнее учиться новому и не бросать начатое.
+# How to learn
+## Страница о том, как правильнее и эффективнее учиться новому и не бросать начатое.
 
 <img src='images/project.png'>
 
@@ -25,4 +25,4 @@ ___________________________
 
 Ссылка на проект:
 
-https://niksonglikson.github.io/how-to-learn/
+[How to learn](https://niksonglikson.github.io/how-to-learn/)
