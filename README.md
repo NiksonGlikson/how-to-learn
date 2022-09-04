@@ -1,6 +1,8 @@
 Научиться учиться.
 Страница о том, как правильнее и эффективнее учиться новому и не бросать начатое.
 
+!(/images/project.png)
+
 ___________________________
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,4 +25,4 @@ ___________________________
 
 Ссылка на проект:
 
-#https://niksonglikson.github.io/how-to-learn/
+https://niksonglikson.github.io/how-to-learn/
