@@ -1,7 +1,7 @@
 Научиться учиться.
 Страница о том, как правильнее и эффективнее учиться новому и не бросать начатое.
 
-!(/images/project.png)
+![alt](https://disk.yandex.ru/client/disk?idApp=client&dialog=slider&idDialog=%2Fdisk%2Fproject.png)
 
 ___________________________
 
